@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Tomoro0726
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Tomoro0726&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
 
-<!---
-Tomoro0726/Tomoro0726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-広尾学園ICT委員会WEBサイト班班長及びICT委員会中学委員長
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoro0726&layout=compact&theme=tokyonight)](https://github.com/Tomoro0726/)

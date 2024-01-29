@@ -1,7 +1,8 @@
 # 自己紹介
 学生,フロントエンドからオンプレインフラ周りまで。
 
-最近作ったもの
+作ったもの
+https://qiita.com/tomoro0726/items/d18c3e5dd97cbbe56f78
 https://zenn.dev/hirooict/articles/4f57940a8b4072
 
 # 学校のICT関係のGithub Organization
